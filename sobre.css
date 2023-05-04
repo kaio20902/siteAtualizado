@@ -1,0 +1,88 @@
+*{
+  margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+.logo{
+  max-width: 100px;
+  max-height: 50px;
+  padding-left: 50px;
+}
+
+
+.menu{
+  background-color: #7dcf7d;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-between;
+}
+
+.texto{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 20px;
+padding: 20px;
+color: black;
+}
+
+
+.card-group{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-box{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 20px ridge green;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  width: 500px;
+  
+}
+.footer{
+  background-color: green;
+  
+}
+.texto5{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color:white;
+}
+.img{
+  padding-top: 10px;
+  max-width: 200px;
+  max-height: 100px;
+  padding-left: 170px ;
+  
+  
+}
+.texto1{
+  text-align: justify;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+  
+  
+}
+.texto1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000000;
+  font-size: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+  background-image: url("img/vegano1.jpg");
+  background-repeat: repeat;
+ 
+  
+}
